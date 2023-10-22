@@ -3,5 +3,5 @@
 **Visual Effect of My Quiz**
 
 
- <img src="/asset/2023-10-22 17.09.24.png" alt="visual effects" width="200">
+ <img src="/asset/2023-10-22 17.09.24.png" alt="visual effects" width="400">
 
